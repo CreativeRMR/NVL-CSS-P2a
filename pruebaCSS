@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>CSS</title>        
+        
+<style>
+ li {background-color: #fabada; text-color: #000000 }    
+ 
+   </style>
+    
+    </head>
+    
+    <body>
+    <ul>
+    <li> ALFA </li>
+    <li> BRAVO </li>
+    <li> CHARLIE </li>
+    <li> DELTA</li>
+    <li> ECHO </li>
+    
+    </ul>
+</body
